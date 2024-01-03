@@ -19,4 +19,8 @@ Run the main file `mf2d_747.m`.
 
 ### Citations
 
-For citing the software and/or the methodology, please refer to the corresponding paper.
+For citing the methodology, please refer to the corresponding paper.
+
+For citing the software, please use the DOI below.
+
+[![DOI](https://zenodo.org/badge/738061241.svg)](https://zenodo.org/doi/10.5281/zenodo.10454343)
